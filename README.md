@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts Github Pages Link 
 
-[Open] (https://avsstorage.github.io/react-youtube-api/)
+Check out [open] (https://avsstorage.github.io/react-youtube-api/)
 
 ## Available Scripts
 
