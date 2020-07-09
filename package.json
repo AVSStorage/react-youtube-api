@@ -1,6 +1,7 @@
 {
   "name": "YOU",
   "version": "0.1.0",
+  "homepage": "https://github.com/AVSStorage/react-youtube-api",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
