@@ -1,8 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts Github Pages Link 
+[Github Pages Link](https://avsstorage.github.io/react-youtube-api/)
 
-Check out [open](https://avsstorage.github.io/react-youtube-api/)
 
 ## Available Scripts
 
